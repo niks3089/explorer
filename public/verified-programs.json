@@ -372,12 +372,6 @@
     "verifiedAt": "2024-10-04T15:04:30"
   },
   {
-    "address": "65cX8gGch8x4vQvU4gnpPcepwKadDSAtJ4ZgZg3hp61t",
-    "name": "holder_locker",
-    "repoUrl": "https://github.com/mad-cook/caged/tree/12642dd9fa2079a1d35f6a1b5caf9ae78078a4ad",
-    "verifiedAt": "2026-09-14T13:25:28"
-  },
-  {
     "address": "66FyiUTkw4JMYMi3yErfa7UBqrHm9GZha1meAxcgbjDg",
     "name": "SpareCashFinance/jrock-lotto",
     "repoUrl": "https://github.com/SpareCashFinance/jrock-lotto/tree/35de5008f9a5f7746b712386bf77d2cfd39d7db3",
@@ -424,6 +418,12 @@
     "name": "x3_monsterball",
     "repoUrl": "https://github.com/pepememe-dev/contracts/tree/b0aa41a655ebb7cf9441377cd96165d286ad3ff6",
     "verifiedAt": "2026-01-23T14:02:17"
+  },
+  {
+    "address": "6hKr9jCZtjfsjtdKZ7cBvMrQsXaHjewjwsC6uW1JYXwq",
+    "name": "loot_king",
+    "repoUrl": "https://github.com/loot-king-game/smart-contract/tree/1f618ccd3bf91ea097179ea148ed72b41d43e83c",
+    "verifiedAt": "2026-09-24T09:03:53"
   },
   {
     "address": "6jmkKJJDo5DBLC8vgMpRFAYWdQjfZX8qqqtMnWbSzBWF",
@@ -956,8 +956,8 @@
   {
     "address": "C7PXyLpLQBh3Ce7e9DNj3rDVUvwqa5orDwQG5hs1rfNi",
     "name": "cow_settlement",
-    "repoUrl": "https://github.com/cowprotocol/solana-programs/tree/c1350d95d9b3de21e3fa8b2f99e2963ca4fa9675",
-    "verifiedAt": "2026-09-16T16:18:56"
+    "repoUrl": "https://github.com/cowprotocol/solana-programs/tree/4145db103b48e7a432d5b48dc5d4c18d317e36fc",
+    "verifiedAt": "2026-09-24T16:53:23"
   },
   {
     "address": "CaWcaw5YfBYQZ1jraTPqiLx2CJc5CwBL8J4Z1DN5neVs",
